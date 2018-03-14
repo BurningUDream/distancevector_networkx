@@ -8,5 +8,5 @@ As lots of algorithms have been invented and discussed for routing, I implement 
 
 In order to keep it simple, I suppose that all the nodes in this network know the the cost of every other nodes' neighbors. So the issues like convergance time won't be discussed here. 
 
-For the detail of distance vector algorithm, refer to https://en.wikipedia.org/wiki/Distance-vector_routing_protocol
+For the detail of distance vector algorithm, refer to [Distance-vector_routing_protocol](https://en.wikipedia.org/wiki/Distance-vector_routing_protocol)
 
